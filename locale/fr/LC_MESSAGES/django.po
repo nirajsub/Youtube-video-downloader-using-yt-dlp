@@ -1,0 +1,500 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-26 10:58+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\downloader\templates\index.html:96 .\downloader\templates\index.html:534
+msgid "Home"
+msgstr "Maison"
+
+#: .\downloader\templates\index.html:148
+msgid "Shorts To MP4"
+msgstr "Short en MP4"
+
+#: .\downloader\templates\index.html:164
+msgid "Shorts To MP3"
+msgstr "Courts métrages en MP3"
+
+#: .\downloader\templates\index.html:176
+msgid "Thumbnail"
+msgstr "Vignette"
+
+#: .\downloader\templates\index.html:183
+msgid "YouTube Shorts Downloader"
+msgstr "Téléchargeur de courts métrages YouTube"
+
+#: .\downloader\templates\index.html:184
+msgid "YouTube Short Video Download Online"
+msgstr "Téléchargement de courtes vidéos YouTube en ligne"
+
+#: .\downloader\templates\index.html:185
+msgid "Enter the Link of YouTube Shorts Video"
+msgstr "Entrez le lien de la courte vidéo YouTube"
+
+#: .\downloader\templates\index.html:384
+msgid "Duration"
+msgstr "Durée"
+
+#: .\downloader\templates\index.html:396 .\downloader\templates\index.html:445
+#: .\downloader\templates\index.html:476
+msgid "Quality"
+msgstr "Qualité"
+
+#: .\downloader\templates\index.html:397 .\downloader\templates\index.html:446
+#: .\downloader\templates\index.html:477
+msgid "Format"
+msgstr "Format"
+
+#: .\downloader\templates\index.html:398 .\downloader\templates\index.html:447
+#: .\downloader\templates\index.html:478
+msgid "Sizes"
+msgstr "Tailles"
+
+#: .\downloader\templates\index.html:399 .\downloader\templates\index.html:448
+#: .\downloader\templates\index.html:479
+msgid "Action"
+msgstr "Action"
+
+#: .\downloader\templates\index.html:423 .\downloader\templates\index.html:457
+#: .\downloader\templates\index.html:503
+msgid "Download"
+msgstr "Télécharger"
+
+#: .\downloader\templates\index.html:436
+msgid "Video"
+msgstr "Vidéo"
+
+#: .\downloader\templates\index.html:467
+msgid "Audio"
+msgstr "l'audio"
+
+#: .\downloader\templates\index.html:516
+msgid "Shorts Without Sound"
+msgstr "Шорты без звука"
+
+#: .\downloader\templates\index.html:535
+msgid "Disclaimer"
+msgstr "Clause de non-responsabilité"
+
+#: .\downloader\templates\index.html:537
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
+
+#: .\downloader\templates\index.html:538
+msgid "About Us"
+msgstr "À propos de nous"
+
+#: .\downloader\templates\index.html:539
+msgid "Contact Us"
+msgstr "Nous contacter"
+
+#: .\downloader\templates\index.html:541
+msgid "Sitemap"
+msgstr "Plan du site"
+
+#: .\downloader\templates\index.html:546
+msgid "Shorts Downloader"
+msgstr ""
+
+#: .\yvd\settings.py:78
+msgid "English"
+msgstr ""
+
+#: .\yvd\settings.py:79 .\yvd\settings.py:111
+msgid "French"
+msgstr ""
+
+#: .\yvd\settings.py:80
+msgid "Español"
+msgstr ""
+
+#: .\yvd\settings.py:81
+msgid "Afrikaans"
+msgstr ""
+
+#: .\yvd\settings.py:82
+msgid "Arabic"
+msgstr ""
+
+#: .\yvd\settings.py:83
+msgid "Algerian Arabic"
+msgstr ""
+
+#: .\yvd\settings.py:84
+msgid "Asturian"
+msgstr ""
+
+#: .\yvd\settings.py:85
+msgid "Azerbaijani"
+msgstr ""
+
+#: .\yvd\settings.py:86
+msgid "Bulgarian"
+msgstr ""
+
+#: .\yvd\settings.py:87
+msgid "Belarusian"
+msgstr ""
+
+#: .\yvd\settings.py:88
+msgid "Bengali"
+msgstr ""
+
+#: .\yvd\settings.py:89
+msgid "Breton"
+msgstr ""
+
+#: .\yvd\settings.py:90
+msgid "Bosnian"
+msgstr ""
+
+#: .\yvd\settings.py:91
+msgid "Catalan"
+msgstr ""
+
+#: .\yvd\settings.py:92
+msgid "Czech"
+msgstr ""
+
+#: .\yvd\settings.py:93
+msgid "Welsh"
+msgstr ""
+
+#: .\yvd\settings.py:94
+msgid "Danish"
+msgstr ""
+
+#: .\yvd\settings.py:95
+msgid "German"
+msgstr ""
+
+#: .\yvd\settings.py:96
+msgid "Lower Sorbian"
+msgstr ""
+
+#: .\yvd\settings.py:97
+msgid "Greek"
+msgstr ""
+
+#: .\yvd\settings.py:98
+msgid "Australian English"
+msgstr ""
+
+#: .\yvd\settings.py:99
+msgid "British English"
+msgstr ""
+
+#: .\yvd\settings.py:100
+msgid "Esperanto"
+msgstr ""
+
+#: .\yvd\settings.py:101
+msgid "Spanish"
+msgstr ""
+
+#: .\yvd\settings.py:102
+msgid "Argentinian Spanish"
+msgstr ""
+
+#: .\yvd\settings.py:103
+msgid "Colombian Spanish"
+msgstr ""
+
+#: .\yvd\settings.py:104
+msgid "Mexican Spanish"
+msgstr ""
+
+#: .\yvd\settings.py:105
+msgid "Nicaraguan Spanish"
+msgstr ""
+
+#: .\yvd\settings.py:106
+msgid "Venezuelan Spanish"
+msgstr ""
+
+#: .\yvd\settings.py:107
+msgid "Estonian"
+msgstr ""
+
+#: .\yvd\settings.py:108
+msgid "Basque"
+msgstr ""
+
+#: .\yvd\settings.py:109
+msgid "Persian"
+msgstr ""
+
+#: .\yvd\settings.py:110
+msgid "Finnish"
+msgstr ""
+
+#: .\yvd\settings.py:112
+msgid "Frisian"
+msgstr ""
+
+#: .\yvd\settings.py:113
+msgid "Irish"
+msgstr ""
+
+#: .\yvd\settings.py:114
+msgid "Scottish Gaelic"
+msgstr ""
+
+#: .\yvd\settings.py:115
+msgid "Galician"
+msgstr ""
+
+#: .\yvd\settings.py:116
+msgid "Hebrew"
+msgstr ""
+
+#: .\yvd\settings.py:117
+msgid "Hindi"
+msgstr ""
+
+#: .\yvd\settings.py:118
+msgid "Croatian"
+msgstr ""
+
+#: .\yvd\settings.py:119
+msgid "Upper Sorbian"
+msgstr ""
+
+#: .\yvd\settings.py:120
+msgid "Hungarian"
+msgstr ""
+
+#: .\yvd\settings.py:121
+msgid "Armenian"
+msgstr ""
+
+#: .\yvd\settings.py:122
+msgid "Interlingua"
+msgstr ""
+
+#: .\yvd\settings.py:123
+msgid "Indonesian"
+msgstr ""
+
+#: .\yvd\settings.py:124
+msgid "Igbo"
+msgstr ""
+
+#: .\yvd\settings.py:125
+msgid "Ido"
+msgstr ""
+
+#: .\yvd\settings.py:126
+msgid "Icelandic"
+msgstr ""
+
+#: .\yvd\settings.py:127
+msgid "Italian"
+msgstr ""
+
+#: .\yvd\settings.py:128
+msgid "Japanese"
+msgstr ""
+
+#: .\yvd\settings.py:129
+msgid "Georgian"
+msgstr ""
+
+#: .\yvd\settings.py:130
+msgid "Kabyle"
+msgstr ""
+
+#: .\yvd\settings.py:131
+msgid "Kazakh"
+msgstr ""
+
+#: .\yvd\settings.py:132
+msgid "Khmer"
+msgstr ""
+
+#: .\yvd\settings.py:133
+msgid "Kannada"
+msgstr ""
+
+#: .\yvd\settings.py:134
+msgid "Korean"
+msgstr ""
+
+#: .\yvd\settings.py:135
+msgid "Kyrgyz"
+msgstr ""
+
+#: .\yvd\settings.py:136
+msgid "Luxembourgish"
+msgstr ""
+
+#: .\yvd\settings.py:137
+msgid "Lithuanian"
+msgstr ""
+
+#: .\yvd\settings.py:138
+msgid "Latvian"
+msgstr ""
+
+#: .\yvd\settings.py:139
+msgid "Macedonian"
+msgstr ""
+
+#: .\yvd\settings.py:140
+msgid "Malayalam"
+msgstr ""
+
+#: .\yvd\settings.py:141
+msgid "Mongolian"
+msgstr ""
+
+#: .\yvd\settings.py:142
+msgid "Marathi"
+msgstr ""
+
+#: .\yvd\settings.py:143
+msgid "Burmese"
+msgstr ""
+
+#: .\yvd\settings.py:144
+msgid "Norwegian Bokmål"
+msgstr ""
+
+#: .\yvd\settings.py:145
+msgid "Nepali"
+msgstr ""
+
+#: .\yvd\settings.py:146
+msgid "Dutch"
+msgstr ""
+
+#: .\yvd\settings.py:147
+msgid "Norwegian Nynorsk"
+msgstr ""
+
+#: .\yvd\settings.py:148
+msgid "Ossetic"
+msgstr ""
+
+#: .\yvd\settings.py:149
+msgid "Punjabi"
+msgstr ""
+
+#: .\yvd\settings.py:150
+msgid "Polish"
+msgstr ""
+
+#: .\yvd\settings.py:151
+msgid "Portuguese"
+msgstr ""
+
+#: .\yvd\settings.py:152
+msgid "Brazilian Portuguese"
+msgstr ""
+
+#: .\yvd\settings.py:153
+msgid "Romanian"
+msgstr ""
+
+#: .\yvd\settings.py:154
+msgid "Russian"
+msgstr ""
+
+#: .\yvd\settings.py:155
+msgid "Slovak"
+msgstr ""
+
+#: .\yvd\settings.py:156
+msgid "Slovenian"
+msgstr ""
+
+#: .\yvd\settings.py:157
+msgid "Albanian"
+msgstr ""
+
+#: .\yvd\settings.py:158
+msgid "Serbian"
+msgstr ""
+
+#: .\yvd\settings.py:159
+msgid "Serbian Latin"
+msgstr ""
+
+#: .\yvd\settings.py:160
+msgid "Swedish"
+msgstr ""
+
+#: .\yvd\settings.py:161
+msgid "Swahili"
+msgstr ""
+
+#: .\yvd\settings.py:162
+msgid "Tamil"
+msgstr ""
+
+#: .\yvd\settings.py:163
+msgid "Telugu"
+msgstr ""
+
+#: .\yvd\settings.py:164
+msgid "Tajik"
+msgstr ""
+
+#: .\yvd\settings.py:165
+msgid "Thai"
+msgstr ""
+
+#: .\yvd\settings.py:166
+msgid "Turkmen"
+msgstr ""
+
+#: .\yvd\settings.py:167
+msgid "Turkish"
+msgstr ""
+
+#: .\yvd\settings.py:168
+msgid "Tatar"
+msgstr ""
+
+#: .\yvd\settings.py:169
+msgid "Udmurt"
+msgstr ""
+
+#: .\yvd\settings.py:170
+msgid "Ukrainian"
+msgstr ""
+
+#: .\yvd\settings.py:171
+msgid "Urdu"
+msgstr ""
+
+#: .\yvd\settings.py:172
+msgid "Uzbek"
+msgstr ""
+
+#: .\yvd\settings.py:173
+msgid "Vietnamese"
+msgstr ""
+
+#: .\yvd\settings.py:174
+msgid "Simplified Chinese"
+msgstr ""
+
+#: .\yvd\settings.py:175
+msgid "Traditional Chinese"
+msgstr ""
